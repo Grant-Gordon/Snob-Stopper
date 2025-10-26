@@ -1,6 +1,7 @@
 # Snob-Stopper
 Image Classifier Model MVP  to identify the Artists of various works of art. 
 
-Develeped in 2 weeks during the Summer 2023 Zurich Exchange program. 
+Develeped in 2 weeks during the Summer 2023 Zurich Exchange program, along side Riccardo-Maffei (git user: Riccardo-Maffei)
+
 
 Classifies 10 different artsits 
