@@ -1,0 +1,10 @@
+ 1. Dali        - Done
+ 2. Degas       - Done
+ 3. Gogh        - Done
+ 4. Monet       - Done
+ 5. Munch       - Done
+ 6. Picasso     - Done
+ 7. Pollock     - Done
+ 8. Rembrandt   - Done
+ 9. Renoir      - Done
+10. Warhol      - Done
